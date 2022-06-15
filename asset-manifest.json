@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Bustamante_Personal-Portfolio/static/css/main.039bf95e.css",
+    "main.js": "/Bustamante_Personal-Portfolio/static/js/main.810dc623.js",
+    "static/media/CV_FlocerBustamante.pdf": "/Bustamante_Personal-Portfolio/static/media/CV_FlocerBustamante.1961c13d52cafdc084da.pdf",
+    "static/media/discord.png": "/Bustamante_Personal-Portfolio/static/media/discord.ef8d9c88e020507818c2.png",
+    "static/media/github.png": "/Bustamante_Personal-Portfolio/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/linkedin.png": "/Bustamante_Personal-Portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/illustration.svg": "/Bustamante_Personal-Portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/Bustamante_Personal-Portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/mysql-icon.svg": "/Bustamante_Personal-Portfolio/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/node-icon.svg": "/Bustamante_Personal-Portfolio/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/Bustamante_Personal-Portfolio/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/bootstrap-icon.svg": "/Bustamante_Personal-Portfolio/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/Bustamante_Personal-Portfolio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/Bustamante_Personal-Portfolio/index.html",
+    "static/media/phone-icon.svg": "/Bustamante_Personal-Portfolio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/Bustamante_Personal-Portfolio/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/html-icon.svg": "/Bustamante_Personal-Portfolio/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/Bustamante_Personal-Portfolio/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/vscode-icon.svg": "/Bustamante_Personal-Portfolio/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
+    "static/media/js-icon.svg": "/Bustamante_Personal-Portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/Bustamante_Personal-Portfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "static/media/github-icon.svg": "/Bustamante_Personal-Portfolio/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
+    "main.039bf95e.css.map": "/Bustamante_Personal-Portfolio/static/css/main.039bf95e.css.map",
+    "main.810dc623.js.map": "/Bustamante_Personal-Portfolio/static/js/main.810dc623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.810dc623.js"
+  ]
+}

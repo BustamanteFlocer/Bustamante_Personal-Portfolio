@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bustamante_Personal-Portfolio/static/css/main.039bf95e.css",
-    "main.js": "/Bustamante_Personal-Portfolio/static/js/main.810dc623.js",
+    "main.js": "/Bustamante_Personal-Portfolio/static/js/main.10659188.js",
     "static/media/CV_FlocerBustamante.pdf": "/Bustamante_Personal-Portfolio/static/media/CV_FlocerBustamante.1961c13d52cafdc084da.pdf",
     "static/media/discord.png": "/Bustamante_Personal-Portfolio/static/media/discord.ef8d9c88e020507818c2.png",
     "static/media/github.png": "/Bustamante_Personal-Portfolio/static/media/github.a855c3975c028d8069f5.png",
@@ -23,10 +23,10 @@
     "static/media/vue-icon.svg": "/Bustamante_Personal-Portfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/github-icon.svg": "/Bustamante_Personal-Portfolio/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "main.039bf95e.css.map": "/Bustamante_Personal-Portfolio/static/css/main.039bf95e.css.map",
-    "main.810dc623.js.map": "/Bustamante_Personal-Portfolio/static/js/main.810dc623.js.map"
+    "main.10659188.js.map": "/Bustamante_Personal-Portfolio/static/js/main.10659188.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.810dc623.js"
+    "static/js/main.10659188.js"
   ]
 }

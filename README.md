@@ -2,7 +2,7 @@
 
 IT101 project. 
 
-https://bustamanteflocer.github.io/Bustamante_Personal-Portfolio/
+https://flocerbustamante-portfolio.vercel.app/
 
 # Getting Started with Create React App
 

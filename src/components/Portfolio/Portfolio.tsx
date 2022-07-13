@@ -51,7 +51,7 @@ export function Portfolio(){
             <div className="body">
               <h3>Food Garage</h3>
               <img className="image-fluid" src="https://i.imgur.com/mw5dxfe.gif" alt="GitHub" />
-              <p>Planned and created a CMS website for a restaurant in Bayugan City. Learned website performance testing and maintaining the back-end, and server integration.
+              <p>Planned and created a CMS website for a restaurant in Bayugan City.
              </p>
             </div>
             <footer>
